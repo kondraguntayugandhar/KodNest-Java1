@@ -9,7 +9,7 @@ public class prg2 {
         int wholePercentage = (int) exactPercentage;
         double average = (double) solvedProblems / practiceDays;
         boolean dailyTarget = average >= 9.0;
-
+        
         System.out.println("Report Value: " + reportValue);
         System.out.println("Whole Percentage: " + wholePercentage);
         System.out.println("Average Per Day: " + average);
